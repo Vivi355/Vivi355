@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am a Software Engineer who enjoys crafting intuitive and high-impact software solutions with a focus on user-friendly applications. I am deeply passionate about continuous learning and growth within this dynamic field, aspiring to further hone my skills and apply them innovatively in my projects. My approach to software development is uniquely shaped by my diverse experiences, allowing me to blend technical acuity with distinctive insights to produce remarkable outcomes. Eager to explore new opportunities and challenges, I am keen to contribute my unique blend of experiences and skills to the ever-evolving world of software development.
 - 🖥️ A Recent App Academy Coding Bootcamp grad
 
-- 🌱 Previous Background 🏡 | ✈️ | 🏠 | 💅 | 💻 + 💍
+- 🌱 Previous Background 🏡 | ✈️ | 🏠 | 💅 | 💻 + 💎
   
 - 💬 Ask me about my [projects](https://vivi355.github.io/) 
 
